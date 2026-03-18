@@ -1,1 +1,626 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","id":1,"geometry":{"type":"Point","coordinates":[-122.66588179575407,45.52482675155926]},"properties":{"OBJECTID":1,"Name":"Kevin J Duckworth Memorial Dock","SITE_DESCR":"River Spot","Address":null,"City":"Portland","State":"OR","Zip":97232,"lat__long":"45.52483241426449, -122.66589601744397","lat__long_X":-122.66589601744397,"lat__long_Y":45.524832414264488,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":2,"geometry":{"type":"Point","coordinates":[-122.76111642255631,45.586195095311723]},"properties":{"OBJECTID":2,"Name":"Cathedral Park","SITE_DESCR":"River Spot","Address":"6422 N Philadelphia Ave","City":"Portland","State":"OR","Zip":97203,"lat__long":"45.58620075176026, -122.76113067146376","lat__long_X":-122.76113067146376,"lat__long_Y":45.586200751760259,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":3,"geometry":{"type":"Point","coordinates":[-122.61750825263618,45.600115844824799]},"properties":{"OBJECTID":3,"Name":"Broughton Beach Park","SITE_DESCR":"River Spot","Address":"4141 NE Marine Dr","City":"Portland","State":"OR","Zip":97211,"lat__long":"45.60012151555385, -122.61752248131292","lat__long_X":-122.61752248131292,"lat__long_Y":45.600121515553852,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":4,"geometry":{"type":"Point","coordinates":[-122.66835362105824,45.513028145426901]},"properties":{"OBJECTID":4,"Name":"Portland Fire and Rescue Station 21","SITE_DESCR":"River Spot","Address":"5 SE Madison St","City":"Portland","State":"OR","Zip":97214,"lat__long":"45.51303380714534, -122.66836784134327","lat__long_X":-122.66836784134327,"lat__long_Y":45.513033807145341,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":5,"geometry":{"type":"Point","coordinates":[-122.66341978275874,45.466872512286535]},"properties":{"OBJECTID":5,"Name":"Sellwood Riverfront Park","SITE_DESCR":"River Spot","Address":"1221 SE Oaks Park Way","City":"Portland","State":"OR","Zip":97202,"lat__long":"45.466878170561536, -122.66343399327315","lat__long_X":-122.66343399327315,"lat__long_Y":45.466878170561536,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":6,"geometry":{"type":"Point","coordinates":[-122.64739534975067,45.437243907502918]},"properties":{"OBJECTID":6,"Name":"Elk Rock Island","SITE_DESCR":"River Spot","Address":"SE 19th Ave & SE Sparrow St","City":"Milwaukie","State":"OR","Zip":97222,"lat__long":"45.437249565868065, -122.64740955075636","lat__long_X":-122.64740955075636,"lat__long_Y":45.437249565868065,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":7,"geometry":{"type":"Point","coordinates":[-122.66803346607146,45.512211839990321]},"properties":{"OBJECTID":7,"Name":"Audrey McCall Beach","SITE_DESCR":"River Spot","Address":null,"City":"Portland","State":"OR","Zip":97202,"lat__long":"45.512217501128504, -122.66804768619916","lat__long_X":-122.66804768619916,"lat__long_Y":45.512217501128504,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":8,"geometry":{"type":"Point","coordinates":[-122.67141702655603,45.507068019357021]},"properties":{"OBJECTID":8,"Name":"Poet's Beach","SITE_DESCR":"River Spot","Address":null,"City":"Portland","State":"OR","Zip":97201,"lat__long":"45.507073679764176, -122.67143124533274","lat__long_X":-122.67143124533274,"lat__long_Y":45.507073679764176,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":9,"geometry":{"type":"Point","coordinates":[-122.67418609530333,45.51265867626951]},"properties":{"OBJECTID":9,"Name":"Tom McCall Bowl Beach","SITE_DESCR":"River Spot","Address":"1403 S Harbor Way","City":"Portland","State":"OR","Zip":97201,"lat__long":"45.51266433667114, -122.67420031600206","lat__long_X":-122.67420031600206,"lat__long_Y":45.512664336671143,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":10,"geometry":{"type":"Point","coordinates":[-122.7706586079958,45.768950323033593]},"properties":{"OBJECTID":10,"Name":"Walton Beach Sauvie Island","SITE_DESCR":"River Spot","Address":"38798 NW Reeder Rd","City":"Portland","State":"OR","Zip":97231,"lat__long":"45.76895598965983, -122.77067289464986","lat__long_X":-122.77067289464986,"lat__long_Y":45.76895598965983,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":11,"geometry":{"type":"Point","coordinates":[-122.78681419981309,45.78832239284511]},"properties":{"OBJECTID":11,"Name":"Collins Beach Sauvie Island","SITE_DESCR":"River Spot","Address":null,"City":"Portland","State":"OR","Zip":97231,"lat__long":"45.7883280594489, -122.78682849278692","lat__long_X":-122.78682849278692,"lat__long_Y":45.788328059448901,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":12,"geometry":{"type":"Point","coordinates":[-122.76719842767953,45.73097598028194]},"properties":{"OBJECTID":12,"Name":"Willow Bar Sauvie Island","SITE_DESCR":"River Spot","Address":null,"City":"Portland","State":"OR","Zip":97231,"lat__long":"45.730981644869104, -122.76721270640415","lat__long_X":-122.76721270640415,"lat__long_Y":45.730981644869104,"SITETYPE":null,"Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":13,"geometry":{"type":"Point","coordinates":[-122.66467651865169,45.542167075529527]},"properties":{"OBJECTID":13,"Name":"Matt Dishman Community Center & Pool","SITE_DESCR":"Community Center","Address":"77 NE Knott St","City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"CC","Northing":691191,"Easting":7647552,"Name_AN":"Matt Dishman Community Center and Pool"}},{"type":"Feature","id":14,"geometry":{"type":"Point","coordinates":[-122.55342452811979,45.515952642199771]},"properties":{"OBJECTID":14,"Name":"East Portland Community Center & Pool","SITE_DESCR":"Community Center","Address":"740 SE 106th Ave","City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"CC","Northing":680892,"Easting":7675803,"Name_AN":"East Portland Community Center & Pool"}},{"type":"Feature","id":15,"geometry":{"type":"Point","coordinates":[-122.58862167025048,45.482574801185812]},"properties":{"OBJECTID":15,"Name":"Mt Scott Community Center & Pool","SITE_DESCR":"Community Center","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"CC","Northing":668958,"Easting":7666470,"Name_AN":"Mt Scott Community Center and Pool"}},{"type":"Feature","id":16,"geometry":{"type":"Point","coordinates":[-122.72229715983241,45.475727387875288]},"properties":{"OBJECTID":16,"Name":"Southwest Community Center & Pool","SITE_DESCR":"Community Center","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"CC","Northing":667377,"Easting":7632128,"Name_AN":"Southwest Community Center and Pool"}},{"type":"Feature","id":17,"geometry":{"type":"Point","coordinates":[-122.61640065960347,45.496747407283991]},"properties":{"OBJECTID":17,"Name":"Creston Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":18,"geometry":{"type":"Point","coordinates":[-122.62875933254692,45.539899071329778]},"properties":{"OBJECTID":18,"Name":"Grant Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":19,"geometry":{"type":"Point","coordinates":[-122.57823784556393,45.527036170194584]},"properties":{"OBJECTID":19,"Name":"Montavilla Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":20,"geometry":{"type":"Point","coordinates":[-122.67360001466723,45.569665403246049]},"properties":{"OBJECTID":20,"Name":"Peninsula Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":21,"geometry":{"type":"Point","coordinates":[-122.75524470399961,45.599023760112445]},"properties":{"OBJECTID":21,"Name":"Pier Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":22,"geometry":{"type":"Point","coordinates":[-122.65939963853252,45.466386007154519]},"properties":{"OBJECTID":22,"Name":"Sellwood Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}},{"type":"Feature","id":23,"geometry":{"type":"Point","coordinates":[-122.69071723343049,45.477612494828463]},"properties":{"OBJECTID":23,"Name":"Wilson Pool","SITE_DESCR":"Pool Outdoors","Address":null,"City":null,"State":null,"Zip":null,"lat__long":null,"lat__long_X":null,"lat__long_Y":null,"SITETYPE":"Poolo","Northing":null,"Easting":null,"Name_AN":null}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66588179575407,
+          45.52482675155926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "Name": "Kevin J Duckworth Memorial Dock",
+        "SITE_DESCR": "River Spot",
+        "Address": null,
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97232,
+        "lat__long": "45.52483241426449, -122.66589601744397",
+        "lat__long_X": -122.66589601744397,
+        "lat__long_Y": 45.52483241426449,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.76111642255631,
+          45.58619509531172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "Name": "Cathedral Park",
+        "SITE_DESCR": "River Spot",
+        "Address": "6422 N Philadelphia Ave",
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97203,
+        "lat__long": "45.58620075176026, -122.76113067146376",
+        "lat__long_X": -122.76113067146376,
+        "lat__long_Y": 45.58620075176026,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61750825263618,
+          45.6001158448248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "Name": "Broughton Beach Park",
+        "SITE_DESCR": "River Spot",
+        "Address": "4141 NE Marine Dr",
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97211,
+        "lat__long": "45.60012151555385, -122.61752248131292",
+        "lat__long_X": -122.61752248131292,
+        "lat__long_Y": 45.60012151555385,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66835362105824,
+          45.5130281454269
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "Name": "Portland Fire and Rescue Station 21",
+        "SITE_DESCR": "River Spot",
+        "Address": "5 SE Madison St",
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97214,
+        "lat__long": "45.51303380714534, -122.66836784134327",
+        "lat__long_X": -122.66836784134327,
+        "lat__long_Y": 45.51303380714534,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66341978275874,
+          45.466872512286535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "Name": "Sellwood Riverfront Park",
+        "SITE_DESCR": "River Spot",
+        "Address": "1221 SE Oaks Park Way",
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97202,
+        "lat__long": "45.466878170561536, -122.66343399327315",
+        "lat__long_X": -122.66343399327315,
+        "lat__long_Y": 45.466878170561536,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64739534975067,
+          45.43724390750292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "Name": "Elk Rock Island",
+        "SITE_DESCR": "River Spot",
+        "Address": "SE 19th Ave & SE Sparrow St",
+        "City": "Milwaukie",
+        "State": "OR",
+        "Zip": 97222,
+        "lat__long": "45.437249565868065, -122.64740955075636",
+        "lat__long_X": -122.64740955075636,
+        "lat__long_Y": 45.437249565868065,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66803346607146,
+          45.51221183999032
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "Name": "Audrey McCall Beach",
+        "SITE_DESCR": "River Spot",
+        "Address": null,
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97202,
+        "lat__long": "45.512217501128504, -122.66804768619916",
+        "lat__long_X": -122.66804768619916,
+        "lat__long_Y": 45.512217501128504,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67141702655603,
+          45.50706801935702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "Name": "Poet's Beach",
+        "SITE_DESCR": "River Spot",
+        "Address": null,
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97201,
+        "lat__long": "45.507073679764176, -122.67143124533274",
+        "lat__long_X": -122.67143124533274,
+        "lat__long_Y": 45.507073679764176,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67418609530333,
+          45.51265867626951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "Name": "Tom McCall Bowl Beach",
+        "SITE_DESCR": "River Spot",
+        "Address": "1403 S Harbor Way",
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97201,
+        "lat__long": "45.51266433667114, -122.67420031600206",
+        "lat__long_X": -122.67420031600206,
+        "lat__long_Y": 45.51266433667114,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7706586079958,
+          45.76895032303359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "Name": "Walton Beach Sauvie Island",
+        "SITE_DESCR": "River Spot",
+        "Address": "38798 NW Reeder Rd",
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97231,
+        "lat__long": "45.76895598965983, -122.77067289464986",
+        "lat__long_X": -122.77067289464986,
+        "lat__long_Y": 45.76895598965983,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7868141998131,
+          45.78832239284511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "Name": "Collins Beach Sauvie Island",
+        "SITE_DESCR": "River Spot",
+        "Address": null,
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97231,
+        "lat__long": "45.7883280594489, -122.78682849278692",
+        "lat__long_X": -122.78682849278692,
+        "lat__long_Y": 45.7883280594489,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.76719842767953,
+          45.73097598028194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "Name": "Willow Bar Sauvie Island",
+        "SITE_DESCR": "River Spot",
+        "Address": null,
+        "City": "Portland",
+        "State": "OR",
+        "Zip": 97231,
+        "lat__long": "45.730981644869104, -122.76721270640415",
+        "lat__long_X": -122.76721270640415,
+        "lat__long_Y": 45.730981644869104,
+        "SITETYPE": null,
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66467651865169,
+          45.54216707552953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "Name": "Matt Dishman Community Center",
+        "SITE_DESCR": "Indoor Pool",
+        "Address": "77 NE Knott St",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "CC",
+        "Northing": 691191,
+        "Easting": 7647552,
+        "Name_AN": "Matt Dishman Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.55342452811979,
+          45.51595264219977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "Name": "East Portland Community Center",
+        "SITE_DESCR": "Indoor Pool",
+        "Address": "740 SE 106th Ave",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "CC",
+        "Northing": 680892,
+        "Easting": 7675803,
+        "Name_AN": "East Portland Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58862167025048,
+          45.48257480118581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "Name": "Mt Scott Community Center",
+        "SITE_DESCR": "Indoor Pool",
+        "Address": "5530 SE 72nd Ave",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "CC",
+        "Northing": 668958,
+        "Easting": 7666470,
+        "Name_AN": "Mt Scott Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72229715983241,
+          45.47572738787529
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "Name": "Southwest Community Center",
+        "SITE_DESCR": "Indoor Pool",
+        "Address": "6820 SW 45th Ave",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "CC",
+        "Northing": 667377,
+        "Easting": 7632128,
+        "Name_AN": "Southwest Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61640065960347,
+          45.49674740728399
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "Name": "Creston Park",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "SE 43rd Ave and SE Rhone",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62875933254692,
+          45.53989907132978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "Name": "Grant Park",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "NE 33rd Ave and US Grant Pl",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.57823784556393,
+          45.527036170194584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "Name": "Montavilla Community Center",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "8219 NE Glisan St",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67360001466723,
+          45.56966540324605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "Name": "Peninsula Park",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "700 N Rosa Parks Way",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75524470399961,
+          45.599023760112445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "Name": "Pier Park",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "N Seneca St and St. Johns Ave",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65939963853252,
+          45.46638600715452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "Name": "Sellwood Park",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "7951 SE 7th Ave",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69071723343049,
+          45.47761249482846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "Name": "Ida B. Wells-Barnett Outdoor Pool",
+        "SITE_DESCR": "Outdoor Pool",
+        "Address": "1151 SW Vermont St",
+        "City": null,
+        "State": null,
+        "Zip": null,
+        "lat__long": null,
+        "lat__long_X": null,
+        "lat__long_Y": null,
+        "SITETYPE": "Poolo",
+        "Northing": null,
+        "Easting": null,
+        "Name_AN": "'Scht Wiwnu Park"
+      }
+    }
+  ]
+}
